@@ -5,7 +5,7 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: 暮苏
+name: MUSU
 # 描述/签名
 description: 暮苏◆欢迎来到里世界
 
@@ -35,13 +35,13 @@ paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:frommidworld http://weibo.com/370927356 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: http://weibo.com/370927356 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: http://www.lofter.com/message/konoene-soul#m=0 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github:FromEndWorld/loffer http://konoene-soul.lofter.com/ #https://github.com/<>
+  github: http://konoene-soul.lofter.com/ #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
