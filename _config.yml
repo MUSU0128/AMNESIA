@@ -14,10 +14,10 @@ description: 暮苏◆欢迎来到里世界
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: http://imglf4.nosdn.127.net/img/d0ZyYStMSFZDRlpLRWNzVUNwdWFaK2xKQWYxZFdlL0VkckJRTjFrVDRTMkxMSUxrYy9MZVd3PT0.jpg?imageView&thumbnail=400y400&enlarge=1&type=jpg
+avatar:https://i.loli.net/2019/06/08/5cfa8f00a16f377189.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon:http://imglf4.nosdn.127.net/img/d0ZyYStMSFZDRlpLRWNzVUNwdWFaK2xKQWYxZFdlL0VkckJRTjFrVDRTMkxMSUxrYy9MZVd3PT0.jpg?imageView&thumbnail=400y400&enlarge=1&type=jpg
+favicon:https://i.loli.net/2019/06/08/5cfa8e7c1c90f68137.png
 
 # 菜单中的按钮
 navigation:
@@ -35,13 +35,13 @@ paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: http://weibo.com/370927356 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:frommidworld http://weibo.com/370927356 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: http://www.lofter.com/message/konoene-soul#m=0 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: http://konoene-soul.lofter.com/ #https://github.com/<>
+  github:FromEndWorld/loffer http://konoene-soul.lofter.com/ #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
